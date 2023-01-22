@@ -1,0 +1,14 @@
+div{
+   
+    width: 50%;
+    height: 100%;
+}
+body{
+    background-color: black;
+    color: white;
+    background-image: url("3a05bf1444b4d648889f5146eab96e13.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: right bottom;  
+
+}
