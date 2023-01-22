@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    /* padding: 0; */
+    box-sizing: border-box;
+}
+.ol{
+    color: red;
+}
+.colortext{
+    color: red; /* Красный цвет выделения */
+    font-weight: 900;
+    font-size: 22px;
+  }
+  .style2{
+    font-weight: 900; 
+    font-style: italic;
+    color: blue;      
+}
+  .colortext1{
+    color: red; /* Красный цвет выделения */
+    font-weight: 900;
+    font-size: 22px;
+    font-style: italic;
+
+  }
+h1{
+    text-align: center;
+    color: red;
+}
+h2{
+ color: green;
+ margin-left: 5px;   
+}
+
+
+
+div{
+    width: 500px;
+    text-align: justify;
+    margin-left: 5px;
+    line-height: 1.5;
+
+
+}
+.style1{
+    font-weight: 900; 
+      
+}
+
+ul{
+    color: rgb(83, 23, 83); 
+    font-size: 17px;
+    font-style: italic; 
+    line-height: 1.2;
+    text-align: left;
+}
